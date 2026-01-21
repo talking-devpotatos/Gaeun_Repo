@@ -1,7 +1,7 @@
 package org.example.ch1;
 import java.util.Scanner;
 
-public class Practice
+public class i_Practice
 {
     public static void main(String[] args)
     {

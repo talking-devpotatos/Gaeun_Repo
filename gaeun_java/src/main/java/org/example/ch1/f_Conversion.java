@@ -1,6 +1,6 @@
 package org.example.ch1;
 
-public class Conversion
+public class f_Conversion
 {
     public static void main(String[] args)
     {

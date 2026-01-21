@@ -1,7 +1,7 @@
 package org.example.ch1;
 import java.math.BigDecimal;
 
-public class DataType
+public class e_DataType
 {
     public static void main(String[] args)
     {

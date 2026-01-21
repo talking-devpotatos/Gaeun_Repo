@@ -1,6 +1,6 @@
 package org.example.ch1;
 
-public class Hello
+public class a_Hello
 {
     public static void main(String[] args)
     {

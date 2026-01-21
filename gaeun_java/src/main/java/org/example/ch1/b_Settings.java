@@ -1,6 +1,6 @@
 package org.example.ch1;
 
-public class Settings
+public class b_Settings
 {
     public static void main(String[] args)
     {

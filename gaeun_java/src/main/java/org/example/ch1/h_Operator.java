@@ -1,6 +1,6 @@
 package org.example.ch1;
 
-public class Operator
+public class h_Operator
 {
     public static void main(String[] args)
     {

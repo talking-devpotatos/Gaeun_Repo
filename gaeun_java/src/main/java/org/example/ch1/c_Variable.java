@@ -1,6 +1,6 @@
 package org.example.ch1;
 
-public class Variable
+public class c_Variable
 {
     public static void main(String[] args)
     {

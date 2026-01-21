@@ -1,6 +1,6 @@
 package org.example.ch1;
 
-public class Semicolon
+public class d_Semicolon
 {
     public static void main(String[] args)
     {

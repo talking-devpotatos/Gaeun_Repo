@@ -1,7 +1,7 @@
 package org.example.ch1;
 import java.util.Scanner;
 
-public class IO
+public class g_IO
 {
     public static void main(String[] args)
     {
